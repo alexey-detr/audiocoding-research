@@ -4,7 +4,7 @@ import { Spectrum } from './spectrum';
 import { TestPack } from './TestPack';
 import { codecs } from './sets/test';
 
-const referenceWavPath = resolve(__dirname, '..', 'virus.wav');
+const referenceWavPath = resolve(__dirname, '..', 'reference.wav');
 const referenceSpectrumImagePath = resolve(__dirname, '..', 'spectrogram.png');
 
 (async () => {
