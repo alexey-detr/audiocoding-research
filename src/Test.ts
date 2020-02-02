@@ -98,7 +98,7 @@ export class Test {
   }
 
   private buildSpectrogram() {
-    console.log('Spectrogram');
+    console.log('Spectrogram is building...');
     const sox = new Sox(this.getDecodedPath());
     return sox.buildSpectrumImage(this.getSpectrumImagePath(), this.codec.options.raw);
   }
