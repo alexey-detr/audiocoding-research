@@ -35,7 +35,7 @@ When everything is ready, run the test tool with `npm start` and wait until it f
 
 ## Results
 
-The results will be in the `results` directory under the subdirectory which is corresponding to the single run, e.g. `results/2020-02-02-20-20-18`. You'll find three most important files there:
+The results will be in the `results` directory under the subdirectory which is corresponding to the single run, e.g. `results/2020-02-02-20-20-18`. You'll find three most important files there which are described below. The best way to visualize them is to load them in the spreadsheed tool and build charts.
 
 ### diff_stats.csv
 
