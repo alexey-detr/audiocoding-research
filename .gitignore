@@ -1,0 +1,7 @@
+/.idea
+/codecs
+/results
+/results-ready
+/node_modules
+/*.wav
+/spectrogram.png
