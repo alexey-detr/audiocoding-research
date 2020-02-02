@@ -5,3 +5,4 @@
 /node_modules
 /*.wav
 /spectrogram.png
+.DS_Store
